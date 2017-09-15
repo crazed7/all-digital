@@ -1,0 +1,10 @@
+{
+    "git.allowForcePush": true,
+    "git.enableSmartCommit": true,
+    "git.fetchOnPull": true,
+    "git.postCommitCommand": "sync",
+    "git.promptToSaveFilesBeforeCommit": "staged",
+    "git.promptToSaveFilesBeforeStash": "staged",
+    "git.rebaseWhenSync": true,
+    "git.showPushSuccessNotification": true
+}
